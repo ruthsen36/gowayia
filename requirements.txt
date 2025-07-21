@@ -1,0 +1,4 @@
+gradio
+serpapi==0.2.0
+transformers
+sentence-transformers
