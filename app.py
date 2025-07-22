@@ -1,4 +1,4 @@
-from google_search_results import GoogleSearch
+from serpapi import GoogleSearch
 from transformers import pipeline
 import gradio as gr
 import os
