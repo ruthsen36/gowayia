@@ -4,7 +4,7 @@ import gradio as gr
 import os
 
 # Use variável de ambiente para a chave SerpAPI
-SERP_API_KEY = os.getenv("SERP_API_KEY", "sua_chave_aqui")
+SERP_API_KEY = os.getenv("SERP_API_KEY", "c250c4f6424506be15253c10c41d21ed6586934d6c8e5ae6a9cf217789613c3e")
 
 # Inicializa o pipeline de resumo
 summarizer = pipeline("summarization")
