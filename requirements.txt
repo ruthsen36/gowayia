@@ -1,4 +1,4 @@
 gradio
 transformers
-google-search-results
+serpapi
 sentence-transformers
